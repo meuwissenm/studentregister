@@ -1,0 +1,9 @@
+Hindi
+Telugu
+Malayalam
+Tamil
+Gujarati 
+Nepali
+Bengali
+Kannada
+Marathi
